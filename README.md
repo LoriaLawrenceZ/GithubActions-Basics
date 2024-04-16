@@ -8,3 +8,4 @@ This Repo is destined for my studies on GitHub Actions 🤓☝️
 
 [Notes](https://github.com/LoriaLawrenceZ/GithubActions-Basics/tree/main/Notes)
 - [Understand GitHub Actions](https://github.com/LoriaLawrenceZ/GithubActions-Basics/blob/main/Notes/Understand-GitHub-Actions.md)
+- [Essential Features](https://github.com/LoriaLawrenceZ/GithubActions-Basics/blob/main/Notes/Essential-Features.md)
