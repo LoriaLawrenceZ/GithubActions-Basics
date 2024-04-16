@@ -115,6 +115,8 @@ jobs:
 
 > Finnaly, you'll run the `bats` command with a parameter that outputs the software version.
 
+---
+
 ### Visualizing the workflow file
 
 This diagram represents the file that was just created and how the GitHub Actions components are organized in a hierarchy. Each step executes a single action or shell script. Steps 1 and 2 runs actions, while steps 3 and 4 run shell scripts. To find more prebuilt actions for your workflows, see "[Finding and customizing actions](https://docs.github.com/en/actions/learn-github-actions/finding-and-customizing-actions)"
