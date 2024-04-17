@@ -4,7 +4,7 @@
 
 ---
 
-## Understanding the workflow file
+## Understanding the Workflow File
 
 ```YML
 name: learn-github-actions
