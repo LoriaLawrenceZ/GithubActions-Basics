@@ -76,5 +76,6 @@ jobs:
           ./my-other-script.sh
 ```
 
-For more information about the run keyword, see "[Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun)."
+For more information about the `run` keyword, see "[Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun)."
+
 
